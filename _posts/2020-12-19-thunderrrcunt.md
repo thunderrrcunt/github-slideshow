@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Welcome to my second slide! Thanks for stopping by.
+Expectation is the root of all Heartache. -William Shakespeare
 Use the left arrow to go back!
